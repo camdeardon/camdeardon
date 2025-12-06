@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @camdeardon
 - 👀 I’m interested in data science, web app development and artificial intelligence
-- 🌱 I’m currently html, css, django, flask, javascript, tensorflow
-- 💞️ I’m looking to collaborate on any and all projects
+- 🌱 Experienced Python and Machine Learning developer, now learning JavaScript 
 - 🌳 I'm self taught and hoping to leverage my skills in a role in the medical, biotechnology and environmental sectors
 - 📫 Reach me on LinkedIn, as I deactivated all the rest of my social media. 
 
